@@ -11,5 +11,3 @@ Steps Followed to create the Application:
 2. Firebase Database: Firebase is the realtime database for ChatBot. All the order from chats is stored in firebase database.
 3. Finally test our agent(chat bot) using the Web Demo feature in DialogFlow
 
-
-
